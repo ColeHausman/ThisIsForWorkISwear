@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_snc_anapp.admin" name="x_snc_anapp.admin">b40b189bd4234350f8779a49e238fa0b</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>maint</sys_created_by>
+        <sys_created_on>2026-09-30 17:10:19</sys_created_on>
+        <sys_id>bc0b189bd4234350f8779a49e238fa11</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>b40b189bd4234350f8779a49e238fa0b</sys_name>
+        <sys_package display_value="anapp" source="x_snc_anapp">3c0bd49bd4234350f8779a49e238fafa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="anapp">3c0bd49bd4234350f8779a49e238fafa</sys_scope>
+        <sys_update_name>sys_embedded_help_role_bc0b189bd4234350f8779a49e238fa11</sys_update_name>
+        <sys_updated_by>maint</sys_updated_by>
+        <sys_updated_on>2026-09-30 17:10:19</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
